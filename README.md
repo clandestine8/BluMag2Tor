@@ -10,7 +10,8 @@ Make Torrents from Accessible Magnet Links Using Libtorrent
   - Save List as `maglist.txt`
 - `tmux` must be installed
 
-###How to Run
+
+### How to Run
 - Make a folder and place `mag2tor2.py` [Python 3] OR `mag2tor2_py2.py` [Python 2.7] along with start.sh and maglist.txt
 - Open `start.sh` in nano or your favorite text editor 
 - find line `split -l 200 -d --additional-suffix=.ml.txt maglist.txt mags` 
