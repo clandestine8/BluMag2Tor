@@ -26,3 +26,7 @@ It will loop indefinately, even if all torrents are resolved
 
 You can monitor by running `tmux attach -t m2t` - this will give you a running count of torrent files created in the folder. 
 You can view each instances output by navigating through the various tmux screens (ie. `CTRL+B`, `W`)
+
+
+
+Extended From & Inspired by https://github.com/xrgtn/mag2tor which its self was inspired by https://github.com/danfolkes/Magnet2Torrent
